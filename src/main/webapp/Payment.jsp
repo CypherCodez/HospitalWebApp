@@ -19,6 +19,7 @@ Credit Card Type: &emsp; &nbsp; <select name = "CreditCardType">
 			<option> DBS/POSB </option>
 			<option> Citibank </option>
 			<option> Standard Chartered </option>
+			<option> UOB </option>
 		  </select>
 		  <br>
 		  <br>
